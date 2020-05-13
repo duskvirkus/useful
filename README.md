@@ -21,6 +21,7 @@ A list of stuffs and thingys related to creative coding.
   - Kinect V1
   - Kinect V2
 - [Leap Motion](https://www.ultraleap.com/product/leap-motion-controller/)
+- [AxiDraw](https://www.axidraw.com/)
 
 ## Projects
 
@@ -31,3 +32,7 @@ A list of stuffs and thingys related to creative coding.
 ### Teaching
 
 - [Peer-to-Peer Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry) by Melanie Hoff
+
+### Non-Computing Computing
+
+- [Weird Faces](https://www.mokafolio.de/works/Weird-Faces) by Matthias Dörfelt
