@@ -36,3 +36,7 @@ A list of stuffs and thingys related to creative coding.
 ### Non-Computing Computing
 
 - [Weird Faces](https://www.mokafolio.de/works/Weird-Faces) by Matthias Dörfelt
+
+## Articles
+
+- [What Screens Want](https://frankchimero.com/blog/2013/what-screens-want/) by Frank Chimero
