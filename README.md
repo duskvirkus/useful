@@ -11,7 +11,7 @@ A list of things I've found useful also basically a notepad to keep track of lin
   - [Forum](https://forum.openframeworks.cc/)
   - [Lewis Lepton's YouTube Tutorial Series](https://www.youtube.com/playlist?list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7)
   - [Lewis Lepton's Old 2015 YouTube Tutorial Series](https://www.youtube.com/playlist?list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr)
-- [Cinder](https://github.com/cinder/Cinder) - [site](https://www.libcinder.org/), [docs](https://libcinder.org/docs/)
+- [Cinder](https://github.com/cinder/Cinder) - [site](https://www.libcinder.org/) - [docs](https://libcinder.org/docs/)
 
 ### Learning
 
