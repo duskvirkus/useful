@@ -49,3 +49,10 @@ A list of things I've found useful also basically a notepad to keep track of lin
 ## Articles
 
 - [What Screens Want](https://frankchimero.com/blog/2013/what-screens-want/) by Frank Chimero
+
+## To Read
+
+Stuff I indend on reading but am unlikely to do in any timely fasion.
+
+- [Creating videos from Processing's p5.js with CCapture.js and ffmpeg](https://peterbeshai.com/blog/2018-10-28-p5js-ccapture/)
+- [Beautifully Animate Points with WebGL and regl](https://peterbeshai.com/blog/2017-05-26-beautifully-animate-points-with-webgl-and-regl/)
