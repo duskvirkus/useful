@@ -1,20 +1,29 @@
-# Creative Coding!!!
+# Useful List
 
-A list of stuffs and thingys related to creative coding.
+A list of things I've found useful also basically a notepad to keep track of links.
 
-## Tools
+## C++
 
-### C++
+### Tools
 
-- [Cinder](https://github.com/cinder/Cinder) | [site](https://www.libcinder.org/), [docs](https://libcinder.org/docs/)
+- [openFrameworks](https://github.com/openframeworks/openFrameworks) - [site](https://openframeworks.cc/) - [docs](https://openframeworks.cc/documentation/)
+  - [ofBook](https://openframeworks.cc/ofBook/chapters/foreword.html) an free online book
+  - [Forum](https://forum.openframeworks.cc/)
+  - [Lewis Lepton's YouTube Tutorial Series](https://www.youtube.com/playlist?list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7)
+  - [Lewis Lepton's Old 2015 YouTube Tutorial Series](https://www.youtube.com/playlist?list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr)
+- [Cinder](https://github.com/cinder/Cinder) - [site](https://www.libcinder.org/), [docs](https://libcinder.org/docs/)
 
-### JavaScript / TypeScript
+### Learning
 
-### Game Engines
+- [The Cherno C++ YouTube Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
+## JavaScript / TypeScript
+
+- [p5.js](https://github.com/processing/p5.js) - [site](https://p5js.org/) - [docs](https://p5js.org/reference/)
 
 ## Hardware
 
-- Midi Controlers
+- Midi Controllers
   - Novation Launch Control (discontinued)
     - [ofxLaunchControllers](https://github.com/npisanti/ofxLaunchControllers) by Nicola Pisanti
 - Kinect
