@@ -1,6 +1,6 @@
 # Useful List
 
-A list of things I've found useful also basically a notepad to keep track of links.
+An incompleate list of things I've found useful also basically a notepad to keep track of links.
 
 ## C++
 
