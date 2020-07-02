@@ -40,6 +40,7 @@ An incompleate list of things I've found useful also basically a notepad to keep
   - Kinect V1
   - Kinect V2
 - [Leap Motion](https://www.ultraleap.com/product/leap-motion-controller/)
+  - [Leap Motion Processing](https://github.com/nok/leap-motion-processing)
 - [AxiDraw](https://www.axidraw.com/)
 
 ## Projects
@@ -72,3 +73,7 @@ An incompleate list of things I've found useful also basically a notepad to keep
 Stuff I indend on reading but am unlikely to do in any timely fasion.
 
 - [Beautifully Animate Points with WebGL and regl](https://peterbeshai.com/blog/2017-05-26-beautifully-animate-points-with-webgl-and-regl/)
+- [New-Media Artists are the Unpaid R&D of Ad Agencies](http://www.flong.com/blog/2012/new-media-artists-are-the-unpaid-research-division-of-ad-agencies/) by Golan Levin
+
+## Interesting Stuff
+- https://getrad.co/
