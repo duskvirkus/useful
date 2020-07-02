@@ -41,6 +41,7 @@ An incompleate list of things I've found useful also basically a notepad to keep
 ### Teaching
 
 - [Peer-to-Peer Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry) by Melanie Hoff
+- [Recreating The Past 2020](https://github.com/ofZach/RTP_SFPC_SUMMER20) by Zach Lieberman
 
 ### Non-Computing Computing
 
@@ -49,6 +50,12 @@ An incompleate list of things I've found useful also basically a notepad to keep
 ## Articles
 
 - [What Screens Want](https://frankchimero.com/blog/2013/what-screens-want/) by Frank Chimero
+
+### Accessibility & Coding
+
+- [Dyslexia and Coding](https://datacarpentry.org/blog/2017/09/coding-and-dyslexia) by Joanna Leng
+- [Embracing Dyslexia As A Software Engineer](https://medium.com/helpful-human/embracing-dyslexia-as-a-software-engineer-86419a94bd94) by Josh Brunner
+- [The Dyslexic Programmer](https://blog.bethcodes.com/the-dyslexic-programmer) by Beth Andres-Beck
 
 ## To Read
 
