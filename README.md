@@ -20,6 +20,16 @@ An incompleate list of things I've found useful also basically a notepad to keep
 ## JavaScript / TypeScript
 
 - [p5.js](https://github.com/processing/p5.js) - [site](https://p5js.org/) - [docs](https://p5js.org/reference/)
+- [CCapture.js](https://github.com/spite/ccapture.js/)
+
+### Tutorials
+
+- [Creating videos from Processing's p5.js with CCapture.js and ffmpeg](https://peterbeshai.com/blog/2018-10-28-p5js-ccapture/)
+
+## Command Line Tools
+
+- [ffmpeg](https://ffmpeg.org/) almost all things video
+- [ImageMagick](https://imagemagick.org/) aka convert - Great for making gifs out of image sequences.
 
 ## Hardware
 
@@ -61,5 +71,4 @@ An incompleate list of things I've found useful also basically a notepad to keep
 
 Stuff I indend on reading but am unlikely to do in any timely fasion.
 
-- [Creating videos from Processing's p5.js with CCapture.js and ffmpeg](https://peterbeshai.com/blog/2018-10-28-p5js-ccapture/)
 - [Beautifully Animate Points with WebGL and regl](https://peterbeshai.com/blog/2017-05-26-beautifully-animate-points-with-webgl-and-regl/)
