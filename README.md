@@ -58,6 +58,10 @@ An incompleate list of things I've found useful also basically a notepad to keep
 
 - [Weird Faces](https://www.mokafolio.de/works/Weird-Faces) by Matthias Dörfelt
 
+### Textiles
+
+- [Fragmented Memory](https://phillipstearns.wordpress.com/fragmented-memory/) by Phillip Stearns
+
 ## Articles
 
 - [What Screens Want](https://frankchimero.com/blog/2013/what-screens-want/) by Frank Chimero
@@ -77,3 +81,12 @@ Stuff I indend on reading but am unlikely to do in any timely fasion.
 
 ## Interesting Stuff
 - https://getrad.co/
+
+## 2.5D Animation
+
+- [Blender](https://www.blender.org/) Grease Pencil
+- [Doodle Studio 95](https://fernandoramallo.itch.io/doodle-studio-95) by Fernando Ramallo
+
+### Tutorials
+
+- [Blender 2D/3D for beginners, drawing and animating with greasepencil](https://www.youtube.com/watch?v=c57qq2nE3B0) by Dedouze
