@@ -90,3 +90,9 @@ Stuff I indend on reading but am unlikely to do in any timely fasion.
 ### Tutorials
 
 - [Blender 2D/3D for beginners, drawing and animating with greasepencil](https://www.youtube.com/watch?v=c57qq2nE3B0) by Dedouze
+
+## Adobe Suite
+
+### Illustrator Scripts
+
+- [MultiExporter](https://gist.github.com/TomByrne/7816376) by Matthew Ericson & Tom Byrne
