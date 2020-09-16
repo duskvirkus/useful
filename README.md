@@ -31,6 +31,10 @@ An incompleate list of things I've found useful also basically a notepad to keep
 - [ffmpeg](https://ffmpeg.org/) almost all things video
 - [ImageMagick](https://imagemagick.org/) aka convert - Great for making gifs out of image sequences.
 
+## Misc Tools
+
+- [Strike](https://strike.amorphic.space/) a 1 bit browser based paint program. | [Video about it](https://youtu.be/IotoOMkC_Ic)
+
 ## Hardware
 
 - Midi Controllers
