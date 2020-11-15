@@ -47,6 +47,23 @@ An incompleate list of things I've found useful also basically a notepad to keep
   - [Leap Motion Processing](https://github.com/nok/leap-motion-processing)
 - [AxiDraw](https://www.axidraw.com/)
 
+## Plotters
+
+### Resources
+
+- [Summary of single-line fonts (10/01/15)](http://www.imajeenyus.com/computer/20150110_single_line_fonts/index.shtml)
+- [Interview with Giulia Cosco](https://www.generativehut.com/post/interview-with-giulia-cosco)
+- [Awesome Plotters](https://github.com/beardicus/awesome-plotters)
+- [Axi-Draw Are.na](https://www.are.na/gaurav-patekar-j8j8t3e2swi/axi-draw) by Gaurav Patekar
+
+### Machines
+
+- [DIY drawing and vinyl cutting machine](https://www.geeky-gadgets.com/vinyl-cutting-machine-01-09-2020/)
+
+### Inspiration
+
+- [Autonomous Machines: Windup Toys and Other Analog Devices Express Themselves through Art](https://www.thisiscolossal.com/2014/02/autonomous-machines/) by Echo Yang
+
 ## Projects
 
 ### Collaboration
